@@ -17,6 +17,7 @@ Completed Social Media Sentiments Analysis using Python and its library - Pandas
 ### Divided data into platform-specific subsets for detailed analysis.
 
 <n/>
+
 ## Findings
 
 ### General Insights :
@@ -48,6 +49,7 @@ Completed Social Media Sentiments Analysis using Python and its library - Pandas
 ### Most Popular Sentiments: Joy and excitement
 
 <n/>
+
 ## Suggestions
 
 ### Enhance User Engagement
@@ -67,6 +69,7 @@ Completed Social Media Sentiments Analysis using Python and its library - Pandas
 ### Use advanced analytics for deeper insights and improved strategies.
 
 <n/>
+
 ## Conclusion
 
 ### This project provides comprehensive insights into social media sentiments on Twitter, Facebook, and Instagram. Understanding user behavior and sentiment trends helps develop effective social media strategies, enhance online presence, and connect meaningfully with audiences. The findings and suggestions serve as a valuable resource for leveraging social media data for better decision-making and improved engagement.
