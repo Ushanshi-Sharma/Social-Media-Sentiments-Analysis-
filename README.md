@@ -5,7 +5,7 @@ Completed Social Media Sentiments Analysis using Python and its library - Pandas
 ## Introduction
 ### This project involves a detailed sentiment analysis of Twitter, Facebook, and Instagram. The analysis includes data cleaning, exploratory data analysis (EDA), and sentiment analysis to understand user behaviors and sentiments.
 
-<n/>
+<br/>
 
 ## Data Cleaning and Organization
 ### Removed duplicates and handled missing values.
@@ -16,7 +16,7 @@ Completed Social Media Sentiments Analysis using Python and its library - Pandas
 ### Conducted initial EDA to understand sentiment distribution.
 ### Divided data into platform-specific subsets for detailed analysis.
 
-<n/>
+<br/>
 
 ## Findings
 
@@ -48,7 +48,7 @@ Completed Social Media Sentiments Analysis using Python and its library - Pandas
 ### Cumulative Likes Over Years: Growth in 2019 and 2022
 ### Most Popular Sentiments: Joy and excitement
 
-<n/>
+<br/>
 
 ## Suggestions
 
@@ -68,8 +68,20 @@ Completed Social Media Sentiments Analysis using Python and its library - Pandas
 ### Continuously monitor social media sentiments for trends.
 ### Use advanced analytics for deeper insights and improved strategies.
 
-<n/>
+<br/>
 
 ## Conclusion
 
 ### This project provides comprehensive insights into social media sentiments on Twitter, Facebook, and Instagram. Understanding user behavior and sentiment trends helps develop effective social media strategies, enhance online presence, and connect meaningfully with audiences. The findings and suggestions serve as a valuable resource for leveraging social media data for better decision-making and improved engagement.
+
+
+## Screenshot
+
+<p float="center">
+       <img src="https://github.com/Ushanshi-Sharma/Social-Media-Sentiments-Analysis-/assets/154740255/4e62c2b4-6cd5-477e-96ba-9d4d70e724f9.jpg" height="500" />
+
+
+<p float="center">
+       <img src="https://github.com/Ushanshi-Sharma/Social-Media-Sentiments-Analysis-/assets/154740255/d94ae19f-e622-4d1a-88c5-f65ffdcdcab0.jpg" height="500" />
+
+
